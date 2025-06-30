@@ -30,7 +30,7 @@ The interactive report helps stakeholders quickly identify disparities, track co
 2. Further findings also showed that Palmoria Group has been under paying their staff as against the what most manufacturing company pays.
 3. It was also discovered that the gender pay gap is only 4%. Which signifies that Palmoria Group do not discreminate in their payment structure of their staff.
 
- Further informations about the findings cvan be found below the screenshots of the summary page:
+ Further informations about the findings can be found below the screenshots of the summary page:
 
  ### Screenshot of the Summary
 
@@ -38,7 +38,7 @@ The interactive report helps stakeholders quickly identify disparities, track co
 
  ### Recommendation
 
- One major recommendation will be for the leadership of Palmoria Group to as a matter of urgency implement the new payment structure agreed upon by the manufacturing company of Nigeria. 
+One major recommendation will be for the leadership of Palmoria Group to as a matter of urgency implement the new payment structure agreed upon by the manufacturing company of Nigeria. 
 
- Another recommendation is for the company to continue in their trjactory of maintaining gender equality in the salary distribution and over all distribution of gender and also give more room for those who will not want to be identified to a particular gender as that will promote a sense of inclusivity.
+Another recommendation is for the company to continue in their trjactory of maintaining gender equality in the salary distribution and over all distribution of gender and also give more room for those who will not want to be identified to a particular gender as that will promote a sense of inclusivity.
   
