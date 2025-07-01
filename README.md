@@ -30,15 +30,22 @@ The interactive report helps stakeholders quickly identify disparities, track co
 2. Further findings also showed that Palmoria Group has been under paying their staff as against the what most manufacturing company pays.
 3. It was also discovered that the gender pay gap is only 4%. Which signifies that Palmoria Group do not discreminate in their payment structure of their staff.
 
- Further informations about the findings can be found below the screenshots of the summary page:
+ Further informations about the findings can be found below :the report view and the summary page:
+
+ ### Full Report
+
+ 
 
 
  ### Screenshot of the Summary
-![Palmoria HR Gender Summary](https://github.com/user-attachments/assets/1ec6dc7c-ee0e-4677-b0bc-2babf17719ec)
 
-![Palmoria HR Salary Summary](https://github.com/user-attachments/assets/0604dae6-1279-45c0-9208-250e8b0d1731)
+ ![Palmoria HR Salary Summary](https://github.com/user-attachments/assets/8b9eac0a-7260-4872-a22d-9b7180333fca)
+ 
+![Palmoria HR Gender Summary](https://github.com/user-attachments/assets/4f72c886-fad9-45df-969a-7e67be22dad3)
 
-![Palmoria HR Bonus Summary](https://github.com/user-attachments/assets/113e6be6-2952-4095-be09-464dafdca81f)
+![Palmoria HR Bonus Summary](https://github.com/user-attachments/assets/34a1cf73-e875-4dd5-959c-a136846d5d7b)
+
+ 
 
  ### Recommendation
  
