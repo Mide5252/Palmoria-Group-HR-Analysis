@@ -32,12 +32,16 @@ The interactive report helps stakeholders quickly identify disparities, track co
 
  Further informations about the findings can be found below the screenshots of the summary page:
 
+
  ### Screenshot of the Summary
+![Palmoria HR Gender Summary](https://github.com/user-attachments/assets/1ec6dc7c-ee0e-4677-b0bc-2babf17719ec)
 
+![Palmoria HR Salary Summary](https://github.com/user-attachments/assets/0604dae6-1279-45c0-9208-250e8b0d1731)
 
+![Palmoria HR Bonus Summary](https://github.com/user-attachments/assets/113e6be6-2952-4095-be09-464dafdca81f)
 
  ### Recommendation
-
+ 
 One major recommendation will be for the leadership of Palmoria Group to as a matter of urgency implement the new payment structure agreed upon by the manufacturing company of Nigeria. 
 
 Another recommendation is for the company to continue in their trjactory of maintaining gender equality in the salary distribution and over all distribution of gender and also give more room for those who will not want to be identified to a particular gender as that will promote a sense of inclusivity.
