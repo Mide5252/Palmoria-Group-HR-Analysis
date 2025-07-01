@@ -30,12 +30,13 @@ The interactive report helps stakeholders quickly identify disparities, track co
 2. Further findings also showed that Palmoria Group has been under paying their staff as against the what most manufacturing company pays.
 3. It was also discovered that the gender pay gap is only 4%. Which signifies that Palmoria Group do not discreminate in their payment structure of their staff.
 
- Further informations about the findings can be found below :the report view and the summary page:
+ Further informations about the findings can be found below the full project report and a screenshot of the summary page:
 
  ### Full Report
-
  
+[Download here](https://github.com/user-attachments/files/21004714/power.bi.link.docx)
 
+Note: This file cannot be previewed in Google drive. Hence you are encourage to download and usde a Power Bi desktop which is free to see the full report.
 
  ### Screenshot of the Summary
 
